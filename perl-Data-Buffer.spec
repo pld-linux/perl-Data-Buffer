@@ -6,7 +6,8 @@ Summary(pl):	Modu³ Perla Data::Buffer - klasa bufora odczytu/zapisu
 Name:		perl-Data-Buffer
 Version:	0.04
 Release:	2
-License:	Artistic or GPL
+# same as erl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	d971f7b92684cc4f4cba7a9c774b8480
