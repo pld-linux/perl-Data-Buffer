@@ -29,7 +29,7 @@ bufora. Mo¿na w nim umieszczaæ i z niego pobieraæ liczby ca³kowite,
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %install
