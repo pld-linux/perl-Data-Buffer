@@ -2,7 +2,7 @@
 %define		pdir	Data
 %define		pnam	Buffer
 Summary:	Data::Buffer Perl module - read/write buffer class
-Summary(pl):	Modu³ Perla Data::Buffer - klasa bufora odczytu/zapisu
+Summary(pl.UTF-8):   ModuÅ‚ Perla Data::Buffer - klasa bufora odczytu/zapisu
 Name:		perl-Data-Buffer
 Version:	0.04
 Release:	3
@@ -20,10 +20,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Data::Buffer implements a low-level binary buffer in which you can get
 and put integers, strings, and other data.
 
-%description -l pl
-Modu³ Data::Buffer jest implementacj± niskopoziomowego, binarnego
-bufora. Mo¿na w nim umieszczaæ i z niego pobieraæ liczby ca³kowite,
-³añcuchy i inne dane.
+%description -l pl.UTF-8
+ModuÅ‚ Data::Buffer jest implementacjÄ… niskopoziomowego, binarnego
+bufora. MoÅ¼na w nim umieszczaÄ‡ i z niego pobieraÄ‡ liczby caÅ‚kowite,
+Å‚aÅ„cuchy i inne dane.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
