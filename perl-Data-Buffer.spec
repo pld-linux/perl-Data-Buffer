@@ -2,7 +2,7 @@
 %define		pdir	Data
 %define		pnam	Buffer
 Summary:	Data::Buffer Perl module - read/write buffer class
-Summary(pl.UTF-8):   Moduł Perla Data::Buffer - klasa bufora odczytu/zapisu
+Summary(pl.UTF-8):	Moduł Perla Data::Buffer - klasa bufora odczytu/zapisu
 Name:		perl-Data-Buffer
 Version:	0.04
 Release:	3
