@@ -5,7 +5,7 @@ Summary:	Data::Buffer Perl module - read/write buffer class
 Summary(pl.UTF-8):	Moduł Perla Data::Buffer - klasa bufora odczytu/zapisu
 Name:		perl-Data-Buffer
 Version:	0.04
-Release:	3
+Release:	4
 # same as erl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
