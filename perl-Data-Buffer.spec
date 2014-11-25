@@ -1,6 +1,6 @@
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Data
 %define		pnam	Buffer
+%include	/usr/lib/rpm/macros.perl
 Summary:	Data::Buffer Perl module - read/write buffer class
 Summary(pl.UTF-8):	Moduł Perla Data::Buffer - klasa bufora odczytu/zapisu
 Name:		perl-Data-Buffer
@@ -11,6 +11,7 @@ License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	d971f7b92684cc4f4cba7a9c774b8480
+URL:		http://search.cpan.org/dist/Data-Buffer/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
