@@ -1,6 +1,5 @@
 %define		pdir	Data
 %define		pnam	Buffer
-%include	/usr/lib/rpm/macros.perl
 Summary:	Data::Buffer Perl module - read/write buffer class
 Summary(pl.UTF-8):	Moduł Perla Data::Buffer - klasa bufora odczytu/zapisu
 Name:		perl-Data-Buffer
